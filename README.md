@@ -1,6 +1,6 @@
 Disclaimer: I'm an artist, not a developer. All design choices, custom assets and ideas present in this mod are my own, but the code itself was written by chatGPT and Gemini. No generative AI was used in the making of assets.
 
-Also, this is my first mod. So if anything (here or on github) is out of place or wrong, please let me know!
+Also, this is my first mod. So if anything is out of place or wrong, please let me know!
 
 This is my mod, Seto Battle UI.
 A different take on the classic battle HUD that aims to be fully customizable, even for people who have no experience with coding whatsoever. I couldn't find any mod for the battle UI that satisfied me 100%, so I tried to create my own.
