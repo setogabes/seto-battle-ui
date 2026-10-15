@@ -3,7 +3,7 @@
 
 ----
 
-This is my mod, #Seto Battle UI.
+This is my mod, **Seto Battle UI**.
 A different take on the classic battle HUD that aims to be fully customizable, even for people who have no experience with coding whatsoever. I couldn't find any mod for the battle UI that satisfied me 100%, so I tried to create my own. It features:
 
 - EXP bar
@@ -16,7 +16,7 @@ A different take on the classic battle HUD that aims to be fully customizable, e
 - Detailed move comparisons when learning a new move after leveling up
 - Theme support
 
-I'm a sucker for customization. So theme support was something that I REALLY wanted to implement here. Here's a quick guide on how can you create a theme for this mod:
+The mod comes with some themes created by me, based on different pokemon games. I'm a sucker for customization, so theme support was something that I REALLY wanted to implement here. Here's a quick guide on how can you create a theme for this mod:
 
 ## 🎨 Creating a theme
 
